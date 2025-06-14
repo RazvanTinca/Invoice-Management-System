@@ -30,7 +30,7 @@ This is the frontend for the Invoice Management System. Built with Vite, React, 
 
 ### **Clone Repo**
 ```bash
-  git clone <repo-url> razvan-tinca-assessment && cd razvan-tinca-assessment
+  git clone https://github.com/RazvanTinca/Invoice-Management-System.git razvan-tinca-assessment && cd razvan-tinca-assessment
 ````
 ## Ports Required
 - **Backend**: `8080`
