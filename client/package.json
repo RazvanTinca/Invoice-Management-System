@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "api": "rm -rf ./src/api-client && npx openapi-generator-cli generate -i http://localhost:8081/api-json -g typescript-axios -o ./src/api-client/",
+    "api": "rm -rf ./src/api-client && npx openapi-generator-cli generate -i http://localhost:8080/api-json -g typescript-axios -o ./src/api-client/",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
