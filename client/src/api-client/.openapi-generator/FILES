@@ -1,0 +1,16 @@
+.gitignore
+.npmignore
+.openapi-generator-ignore
+api.ts
+base.ts
+common.ts
+configuration.ts
+docs/AuthApi.md
+docs/CreateInvoiceDto.md
+docs/InvoiceApi.md
+docs/InvoiceDto.md
+docs/PaginationDTO.md
+docs/UpdateInvoiceDTO.md
+docs/UserApi.md
+git_push.sh
+index.ts
